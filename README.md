@@ -1,5 +1,7 @@
 # Pathfinding Visualizer -- \[ Unity Engine / C# \]
-## Visualizer app made in Unity that demonstrates, step-by-step, how certain pathfinding algorithms work. Draw your own maze and change the speed of the simulation as you please!
+### Visualizer app made in Unity that demonstrates, step-by-step, how certain pathfinding algorithms work. Draw your own maze and change the speed of the simulation as you please!
+
+---
 
 *To better understand pathfinding algoritms, it's important to visualize each step they take. Watch how some of these algorithms perform better (or waaay worse) than others.*
 
